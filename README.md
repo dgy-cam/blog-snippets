@@ -25,7 +25,17 @@
     </div>
 </div>
 ```
-Variable | Note
---- | ---
-H4fSnY  | The List ID for "Darn Yarn Newsletter"
-KAL     | The Klaviyo Property used to identify users who signed up using this particular form. This allows segmentation within Klaviyo. This can change as needed.
+<table>
+    <tr>
+        <th>Variable</th>
+        <th>Note</th>
+    </tr>
+    <tr>
+        <td>H4fSnY</td>
+        <td>The List ID for "Darn Yarn Newsletter"</td>
+    </tr>
+    <tr>
+        <td>KAL</td>
+        <td>The Klaviyo Property used to identify users who signed up using this particular form. This allows segmentation within Klaviyo. This can change as needed.</td>
+    </tr>
+</table>
