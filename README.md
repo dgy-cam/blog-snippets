@@ -21,7 +21,7 @@
 ```html
 <div class="callout noshadow">
     <div class="callout_inner">
-        <div id="build-form" data-list="H4fSnY" data-segment-name="KAL"></div>
+        <div class="build-form" data-list="H4fSnY" data-segment-name="KAL"></div>
     </div>
 </div>
 ```
