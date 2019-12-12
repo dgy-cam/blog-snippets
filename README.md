@@ -39,3 +39,14 @@
         <td>The Klaviyo Property used to identify users who signed up using this particular form. This allows segmentation within Klaviyo. This can change as needed.</td>
     </tr>
 </table>
+
+
+## Product Promos (Use only if trained)
+### Single Layout
+```html
+<div class="build-product" data-products="[['mystery-yarn-grab-bag',31220922482801,2]]" data-title="BOGO" data-layout="single"></div>
+```
+### Multi Product "Bundle" Layout
+```html
+<div class="build-product" data-title="Perfect Yarn Lovers Bundle" data-button="Add this bundle to cart" data-products="[['mystery-yarn-grab-bag',31220922482801,2],['peek-a-boo-lace-weight-silk-yarn',29417795354737,2],['5-pack-amigurumi-kits',4001905541233,1]]" data-layout="bundle"></div>
+```
